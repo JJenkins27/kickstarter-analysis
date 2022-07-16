@@ -25,7 +25,7 @@ The chart below places goals into buckets based on amount of funding requested i
 
 ### Challenges and Difficulties Encountered
 
-No challenges or difficulties were experienced in gathering the necessary data for analysis.
+No challenges or difficulties were experienced in gathering the necessary data for analysis. Potential difficulties could include problems with filtering data to analyze similar campaigns, deciding which charts would best reflect the data, and making sure the charts are simple enough to understand yet able to convey the necessary information.
 
 ## Results
 
